@@ -4,4 +4,4 @@ It also contains a collection of some of my projects.
 
 ![portfolio screenshot](./assets/images/portfolioScreenshot.PNG)
 
-[Link to the site]()
+[Link to the site](https://ivyparade.github.io/Portfolio/)
