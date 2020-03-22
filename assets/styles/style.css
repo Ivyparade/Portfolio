@@ -1,0 +1,31 @@
+body {
+    background-color: #321325;
+}
+
+.card, .card a, .card-title {
+    background-color:#9A031E;
+    color: #FCDC4D;
+    text-align: center;
+}
+
+.card-title {
+    padding-top: 5px;
+}
+
+.card-block {
+    padding-top: 15px;
+}
+
+.breadcrumb, .breadcrumb a {
+    background-color: #FCDC4D;
+    color: #321325;
+}
+
+.jumbotron, .jumbotron h1 {
+    background-color: #5F0F40;
+    color: #CB793A;
+}
+
+hr {
+    border-color: #FCDC4D;
+}
