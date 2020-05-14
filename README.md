@@ -4,4 +4,4 @@ It also contains a collection of some of my projects.
 
 ![portfolio screenshot](./assets/images/portfolioScreenshot.PNG)
 
-[Link to the site](https://ivyparade.github.io/Portfolio/)
+[Link to the site](https://Owen-Elzic-Edwards.github.io/Portfolio/)
